@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+h1{
+    font-family: 'Rubik Iso', cursive;
+    font-size: 5rem;
+    color: purple;
+    letter-spacing: 1rem;
+}
+span{
+    color:blue
+}
+.row{
+    display:flex;
+    justify-content: center;
+}
+button{
+    background-color: red;
+    width:200px;
+    height:200px;
+    margin:30px;
+    border-radius:15%;
+    border:8px solid;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}
